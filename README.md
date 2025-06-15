@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Solopreneur+%7C+Backend+Engineer;42+School+Student;TypeScript+%7C+Node.js+%7C+NestJS;Building+scalable+solutions" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## 🚀 About me
 
 **Solopreneur | Backend Engineer | 42 School Student**
 
@@ -12,7 +12,7 @@
 
 I'm passionate about building robust backend systems and scalable solutions. Currently honing my skills at 42 School while working on my own projects as a solopreneur.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 ```typescript
 const stunox = {
@@ -25,7 +25,7 @@ const stunox = {
 };
 ```
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stunox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -36,7 +36,7 @@ const stunox = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stunox&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🌟 What I'm Up To
+## 🌟 What i'm up to
 
 - 🎓 **Studying** at 42 School - diving deep into computer science fundamentals
 - 💼 **Building** backend solutions as a solopreneur
@@ -44,7 +44,7 @@ const stunox = {
 - 🚀 **Learning** system design and scalable architectures
 - 📖 **Exploring** new technologies and best practices
 
-## 🎯 Current Goals
+## 🎯 Current goals
 
 - [ ] Complete challenging 42 School projects
 - [ ] Build and launch my next SaaS product
