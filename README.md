@@ -66,8 +66,3 @@ const stunox = {
   <img src="https://komarev.com/ghpvc/?username=stunox&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<div align="center">
-  
-  **Thanks for stopping by! Let's build something amazing together** 🚀
-  
-</div>
