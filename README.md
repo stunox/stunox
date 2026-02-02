@@ -12,47 +12,6 @@
 
 I'm passionate about building robust backend systems and scalable solutions. Currently honing my skills at 42 School while working on my own projects as a solopreneur.
 
-## 🛠️ Tech stack
-
-```typescript
-const stunox = {
-  languages: ["TypeScript", "JavaScript"],
-  backend: ["Node.js", "NestJS"],
-  databases: ["PostgreSQL", "MongoDB", "Redis"],
-  tools: ["Docker", "Git", "REST APIs"],
-  currentFocus: "Building scalable backend architectures",
-  learning: "Advanced system design at 42 School"
-};
-```
-
-## 📊 GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stunox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=stunox&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stunox&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🌟 What i'm up to
-
-- 🎓 **Studying** at 42 School - diving deep into computer science fundamentals
-- 💼 **Building** backend solutions as a solopreneur
-- 🔧 **Mastering** TypeScript, Node.js, and NestJS
-- 🚀 **Learning** system design and scalable architectures
-- 📖 **Exploring** new technologies and best practices
-
-## 🎯 Current goals
-
-- [ ] Complete challenging 42 School projects
-- [ ] Build and launch my next SaaS product
-- [ ] Contribute to open-source projects
-- [ ] Master advanced backend patterns and architectures
-
-## 📫 Let'sssss go !
-
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stunox)
